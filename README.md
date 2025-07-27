@@ -15,3 +15,10 @@
 - Story 6: As the System, I need to automatically transcribe the audio from an uploaded video file so that I can create a source transcript from scratch.
 - Story 7: As the System, I need to orchestrate the multi-step process of transcribing, translating, and formatting so that the workflow is reliable.
 - Story 8: As a User, I need to receive the final translated subtitles in a standard format so that I can easily use them with standard video players.
+
+# POC DIAGRAM
+
+<img width="1828" height="698" alt="7-1(5)" src="https://github.com/user-attachments/assets/a346dd62-6264-4112-bf64-35b2427842d3" />
+
+
+
