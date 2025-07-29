@@ -21,4 +21,7 @@
 <img width="1828" height="698" alt="7-1(5)" src="https://github.com/user-attachments/assets/a346dd62-6264-4112-bf64-35b2427842d3" />
 
 
+# MVP DIAGRAM
+
+<img width="1710" height="684" alt="7-1(6)" src="https://github.com/user-attachments/assets/fa8b1a4d-e9ba-4729-a8ae-0705275bcbe8" />
 
