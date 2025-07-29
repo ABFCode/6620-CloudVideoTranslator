@@ -25,3 +25,73 @@
 
 <img width="1710" height="684" alt="7-1(6)" src="https://github.com/user-attachments/assets/fa8b1a4d-e9ba-4729-a8ae-0705275bcbe8" />
 
+
+## Explanations && Tradeoffs
+### Youtube URL
+Pros:
+- No need to process video/audio (AWS Transcribe)
+- Fast and cheap
+- Simple
+Cons:
+- Only works for YouTube videos with transcripts
+- No support for other video sources
+
+### Direct Upload:
+Pros:
+- Works for any video
+
+Cons:
+- More expensive (Transcribe)
+- More complex
+- Slower
+---
+### AWS Translate
+Pros:
+- Easy AWS Integration
+
+Cons: 
+- Locked in to AWS Translate
+
+### Google Translate
+Pros:
+- Broad Language Support
+- Cheap/Free
+
+Cons:
+- Integration is more complex
+- Not AWS-native
+
+### Open-source/AI API
+Pros:
+- Price can be very low
+- Customizeable
+- Quality can be very high
+
+Cons:
+- Price can be very high
+- More difficult to implement
+- Quality can vary depending on implementation
+
+--- 
+
+### S3 Static Website
+Pros:
+- Cheap
+- Scalable
+- No server management
+
+Cons:
+- Limited to static content
+- Needs API for dynamic actions
+
+### Server
+Pros:
+- More dynamic
+- More capable
+
+Cons:
+- More expensive
+- More DevOps work/complexity
+---
+
+Diagrams generated using https://excalidraw.com/ text to diagram feature. 
