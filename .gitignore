@@ -1,0 +1,35 @@
+# --- General ---
+.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
+
+# --- Terraform ---
+*.tfstate
+*.tfstate.*
+
+.terraform.lock.hcl
+.terraform/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+env/
+
+# --- Lambda Dependencies ---
+poc_lambda/*
+mvp_lambdas/start_workflow/*
+mvp_lambdas/process_transcript/*
+
+!poc_lambda/main.py
+!poc_lambda/requirements.txt
+
+!mvp_lambdas/start_workflow/main.py
+
+!mvp_lambdas/process_transcript/main.py

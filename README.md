@@ -95,3 +95,18 @@ Cons:
 ---
 
 Diagrams generated using https://excalidraw.com/ text to diagram feature. 
+
+
+
+---
+
+## AI USAGE:
+
+What am I missing in my tf file? Here is my goal.
+
+Make me a .gitignore for this project.
+
+How do I parse the JSON body from an AWS Lambda event from API Gateway?
+
+My Lambda is failing with an 'Internal Server Error'. Here are the CloudWatch logs. 
+
